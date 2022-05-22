@@ -4,6 +4,7 @@
 <h1>Shakkikello</h1>
 
 </div>
+
 ## Projektin tavoitteet
 
 Projektin tavoitteena oli rakentaa ja koodata toimiva shakkikello, jota hyödyttämällä voitaisiin pelata vähintään shakin “Bullet” pelimuotoa.
@@ -24,7 +25,7 @@ Shakkikello on rakennettu mikrokontrolleri Arduino Unon ympärille. Pelimuodot v
 7-segmenttinäyttöjen ohjauksessa käytetään hyväksi kuutta Serial to Parallel (74HC595) piiriä.
 
 Ajan kulumista ja vuoroja pelaajien välillä vaihdellaan kahden painikkeen avulla.
-Laitteen ohjelmointi on tehty kokonaan Arduinon C/C++   ̶ kielellä.
+Laitteen ohjelmointi on tehty kokonaan Arduinon C/C++ -kielellä.
 
 Projektin lopussa valmiina oli toimiva shakkikello, jolla pystytaan mittaamaan aikaa neljään eri pelimuotoon.
 
